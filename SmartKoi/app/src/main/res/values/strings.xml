@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartKoi</string>
+    <string name="action_settings">Setelan</string>
+    <string name="main_welcome">Selamat Datang di SmartKoi</string>
+    <string name="main_status_pre">Status Kolam Anda Saat Ini :</string>
+    <string name="title_activity_setelan">Ubah Setelan</string>
+    <string name="title_activity_grafik">Grafik</string>
+</resources>
